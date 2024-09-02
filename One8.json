@@ -1,102 +1,98 @@
 {
-    "photo":"https://airmenusimages.blr1.cdn.digitaloceanspaces.com/outlets/outlets_banner_66_1653393039.6363986.png",
-    "name":"One8 Commune",
+    "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/outlets/outlets_banner_66_1653393039.6363986.png",
+    "name": "One8 Commune",
     "menus": [
         {
-            "name":"food",
-            "timing":"(8:01 am - 11:30 pm)",
-            "sections":[
+            "name": "food",
+            "timing": "(8:01 am - 11:30 pm)",
+            "sections": [
                 {
-                    "name":"Virat’s Favourite ",
-                    "dishes":[
+                    "name": "Virat’s Favourite ",
+                    "dishes": [
                         {
-                            "name":"Super Food Salad",
-                            "desc":"Assorted Mesclun Greens, Roasted Pumpkin Seeds, Watermelon, Amaranth Seeds",
-                            "price":465,
-                            "id":"",
-                            "photo":"https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505780_1725006727221_Superfood_Salad.JPG",
-                            "inStock":true,
-                            "diet":"veg",
-                            "banner":{
-                                "value":"recommended",
-                                "bgColor":"pink"
+                            "name": "Super Food Salad",
+                            "desc": "Assorted Mesclun Greens, Roasted Pumpkin Seeds, Watermelon, Amaranth Seeds",
+                            "price": 465,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505780_1725006727221_Superfood_Salad.JPG",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "recommended",
+                                "bgColor": "pink"
                             },
-                            "addOns":[
+                            "addOns": [
                                 {
-                                    "name":"",
-                                    "desc":"",
-                                    "price":
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
                                 }
                             ],
-                            "options":[
+                            "options": [
                                 {
-                                    "name":"",
-                                    "desc":"",
-                                    "price":
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
                                 }
                             ]
-                    
+                        },
+                        {
+                            "name": "Tartar Topped On Avocado",
+                            "desc": "With Crispy Corn, Sriracha, Scallion",
+                            "price": 565,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505781_1674141433.8903394.png",
+                            "inStock": true,
+                            "diet": "",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 69
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "",
+                            "desc": "",
+                            "price": 69,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 69
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 69
+                                }
+                            ]
                         }
                     ]
-                    {
-                        "name":"Tartar Topped On Avocado",
-                        "desc":"With Crispy Corn, Sriracha, Scallion",
-                        "price":565,
-                        "id":"",
-                        "photo":"https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505781_1674141433.8903394.png",
-                        "inStock":true,
-                        "diet":"",
-                        "banner":{
-                            "value":"",
-                            "bgColor":""
-                        },
-                        "addOns":[
-                            {
-                                "name":"",
-                                "desc":"",
-                                "price":69
-                            }
-                        ],
-                        "options":[
-                            {
-                                "name":"",
-                                "desc":"",
-                                "price":69
-                            }
-                        ]
-                
-                    }
-                    {
-                        "name":"",
-                        "desc":"",
-                        "price":69,
-                        "id":"",
-                        "photo":"",
-                        "inStock":true,
-                        "diet":"",
-                        "banner":{
-                            "value":"",
-                            "bgColor":""
-                        },
-                        "addOns":[
-                            {
-                                "name":"",
-                                "desc":"",
-                                "price":69
-                            }
-                        ],
-                        "options":[
-                            {
-                                "name":"",
-                                "desc":"",
-                                "price":69
-                            }
-                        ]
-                
-                    }
                 }
             ]
         }
     ]
-
 }
