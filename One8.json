@@ -43,7 +43,94 @@
                             "id": "",
                             "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505781_1674141433.8903394.png",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
+                            "banner": {
+                                "value": "chef's special",
+                                "bgColor": "purple"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mushroom Googly Dimsums",
+                            "desc": "Assorted Wild Mushrooms, Cream Cheese, Vegetarian Broth, Truffle Oil",
+                            "price": 525,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_505782_1724769488941_mushroom_googly.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "popular",
+                                "bgColor": "orange"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sundried Tomato and Pearl Barley Risotto",
+                            "desc": "pearl barley, cream cheese, spinach, pomodoro sauce, fresh arugula",
+                            "price": 655,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758391_1724849463016_risotto.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                        
+                    ]
+                },
+                {
+                    "name":"salad",
+                    "dishes":[
+                        {
+                            "name": "Caesar Salad Veg",
+                            "desc": "Olives, Garlic Chili Croutons, Parmigiano Reggiano, Capers",
+                            "price": 545,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506195_1725006958420_Caeser_Salad.png",
+                            "inStock": true,
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -52,21 +139,267 @@
                                 {
                                     "name": "",
                                     "desc": "",
-                                    "price": 69
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 575
+                                },
+                                {
+                                    "name": "prawns",
+                                    "desc": "",
+                                    "price": 625
+                                }
+                            ]
+                        }
+                    ] 
+                },
+                {
+                    "name":"laksha (Soup)",
+                    "dishes":[
+                        {
+                            "name": "Signature Laksa Veg",
+                            "desc": "Flat Rice Noodles, Coconut Broth, Brown Onion & Brown Garlic With a Choice Of Vegetarian",
+                            "price": 395,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 545
+                                },
+                                {
+                                    "name": "prawns",
+                                    "desc": "",
+                                    "price": 595
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Dimsums",
+                    "dishes" :[
+                        {
+                            "name": "China Man",
+                            "desc": "Lotus Root, Cream Cheese, Water Chestnut, Broccoli, Slow Roast Tomato And Ginger Dip",
+                            "price": 445,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": { 
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
                                 }
                             ],
                             "options": [
                                 {
                                     "name": "",
                                     "desc": "",
-                                    "price": 69
+                                    "price": 0
                                 }
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "fiery chicken",
+                            "desc": "Spicy Chicken Dumplings, Best Mate With Cocktails",
+                            "price": 495,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_516535_1724769569330_fiery_chicken_dimsum.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"sushi",
+                    "dishes": [
+                        {
+                            "name": "Vegetable Tempura Sushi",
+                            "desc": "Crispy Fried Tempura Vegetable, Tempura Flakes, Sweet Chilli, Sesame Seeds and Spicy Mayonnaise",
+                            "price": 555,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758731_1701789654.1253643.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spicy Shitake And Truffle Sushi",
+                            "desc": "Sliced Pan Tossed Shiitake, Cream Cheese, Tobanjan And Tempura Flakes",
+                            "price": 585,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Avocado And Asparagus Sushi",
+                            "desc": "Scallion, Teriyaki, Nori, Tanuki, Hass Avocado, Asparagus",
+                            "price": 555,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_516539_1724849733898_asp_avocado_sushi.jpg",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "popular",
+                                "bgColor": "orange"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pretty Pink Sushi",
+                            "desc": "Fresh Salmon, Japanese Togarashi, Smoked Salmon Slices, Teriyaki, scallion and spicy mayonnaise",
+                            "price": 745,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Prawn Tempura Sushi",
+                            "desc": "Golden Fried Prawns, Tobanjan Mayo, Crispy Flakes",
+                            "price": 625,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name":"Bao and Taco",
+                    "dishes": [
+                        {
+                            "name": "Baos",
                             "desc": "",
-                            "price": 69,
+                            "price": 0,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -84,11 +417,16 @@
                             ],
                             "options": [
                                 {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 69
+                                    "name": "Spicy Chilli Paneer",
+                                    "desc": "Chili Garlic And Soya Glaze, Topped With Crispy Garlic In A Freshly Steamed Bao",
+                                    "price": 445
+                                },
+                                {
+                                    "name": "Spicy Chilli Chicken",
+                                    "desc": "Famous Calcutta Chilly Chicken In A Freshly Steamed Bao",
+                                    "price": 495
                                 }
-                            ]
+                            ]   
                         }
                     ]
                 }
