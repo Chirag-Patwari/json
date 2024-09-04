@@ -427,7 +427,135 @@
                                     "price": 495
                                 }
                             ]   
-                        }
+                        },
+                        {
+                            "name": "Tacos",
+                            "desc": "",
+                            "price": 0,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_601107_1701779856.7721872.png",
+                            "inStock": true,
+                            "diet": "",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "Crispy Cottage cheese Taco (VEG)",
+                                    "desc": "marinated cottage cheese, Arugula, cole slaw, Sour Cream, tomato Salsa",
+                                    "price": 445,
+                                    "photo":"https://airmenusimages.blr1.cdn.digitaloceanspaces.com/variation/variation__1701790088.1885664.png"
+                                },
+                                {
+                                    "name": "Sriracha Chicken Taco(NON VEG)",
+                                    "desc": "spicy shredded Chicken, Arugula, cole slaw, Sour Cream, tomato Salsa",
+                                    "price": 495,
+                                    "photo":"https://airmenusimages.blr1.cdn.digitaloceanspaces.com/variation/variation_540314_1702055185.9497406.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Beans and cheese Burito",
+                            "desc": "Refried beans, Mexican rice, cheddar, shredded iceberg, jalapeno salsa",
+                            "price": 445,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758408_1701779353.8698497.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "must try",
+                                "bgColor": "tangerine"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chicken & Chipotle burrito",
+                            "desc": "Grilled chipotle chicken, Mexican rice, guacamole, jalapeno, sour cream",
+                            "price": 525,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758410_1701779384.3483052.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "chef's special",
+                                "bgColor": "purple"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Signature Stufed Kulchas",
+                            "desc": "",
+                            "price": 395,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "",
+                            "banner": {
+                                "value": "specials",
+                                "bgColor": "lavender"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 69
+                                }
+                                
+                            ],
+                            "options": [
+                                {
+                                    "name": "four cheese ( VEG)",
+                                    "desc": "tandoor baked stuffed kulcha with jeera raita and tomato garlic chutney",
+                                    "price":395,
+                                    "photo":"https://flogginimages.s3.ap-south-1.amazonaws.com/variation/variation_537196_1702054900.8458867.png" 
+                                },
+                                {
+                                    "name": "malai paneer ( VEG)",
+                                    "desc": "tandoor baked stuffed kulcha with jeera raita and tomato garlic chutney",
+                                    "price": 395
+                                },
+                                {
+                                    "name": "mutton keema (NON VEG)",
+                                    "desc": "tandoor baked stuffed kulcha with jeera raita and tomato garlic chutney",
+                                    "price": 445,
+                                    "photo":"https://flogginimages.s3.ap-south-1.amazonaws.com/variation/variation_537197_1702054963.7461085.png"
+                                }
+                            ]
+                        }                           
                     ]
                 }
             ]
