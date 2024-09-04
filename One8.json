@@ -967,9 +967,419 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Zucchini and Feta Croquettes",
+                            "desc": "With hot pepper Salsa and Crème fraîche",
+                            "price": 445,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758736_1701779125.9874506.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Zataar Paneer Tikka",
+                            "desc": "Overnight Marinated Cottage Cheese in Zatar Spices, Cooked in clay oven",
+                            "price": 475,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758737_1701779155.994805.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "specials",
+                                "bgColor": "lavender"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nachos Non-Veg",
+                            "desc": "Fresh Onion, Tomato Salsa, Sour Cream",
+                            "price": 445,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Murg Angara Tikka",
+                            "desc": "boneless chicken thigh, spicy marinade, mint chutney",
+                            "price": 495,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Signature Black Chicken",
+                            "desc": "Char-Grilled Chicken, Black Sesame Marinade, Authentic Recipe From Assam",
+                            "price": 495,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bamboo Cashew Nut Chicken",
+                            "desc": "Bell peppers, Cherry Tomato, Scallion, Schezwan style",
+                            "price": 495,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Signature chicken",
+                            "desc": "Korean Style Chicken, Melted Cheese, Toasted Sesame Seed",
+                            "price": 545,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_601114_1691840937.4487112.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Spanish Paprika Marinated Chicken",
+                            "desc": "Hot Paprika Powder, Tartar, Walnut Puree",
+                            "price": 525,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506306_1674141286.5670183.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Signature Mutton Keema Pav",
+                            "desc": "Hand Minced Mutton, Buttered Pav, Fresh Onion And Tomatoes",
+                            "price": 495,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506292_1725007128220_Mutton_Keema_Pav.jpg",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "recommended",
+                                "bgColor": "pink"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Butter garlic Prawn",
+                            "desc": "Olives, Cherry Tomatoes, Star Anise, Paprika, Garlic Bread.",
+                            "price": 665,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506309_1724847843194_gralic_butter_prawn.jpeg",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "popular",
+                                "bgColor": "orange"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tandoori Fish Tikka",
+                            "desc": "Overnight Marinated Fish Tikka, Drizzled With Kasundi Mustard, Mint Chutney",
+                            "price": 665,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Black Bean Prawns",
+                            "desc": "Stir Fried Tiger Prawns, Bok choy, Bell pepper, Scallion and Cilantro.",
+                            "price": 665,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chili Basil Chicken",
+                            "desc": "Bell Peppers, Onion ,Chili Glaze, Fried Basil",
+                            "price": 495,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "One8 signature Fish n Chips",
+                            "desc": "crumb fried fish fillet, Double Cooked Chips, kasundi mustard, tartare dip, fresh lemon",
+                            "price":695,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758742_1701779247.570825.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        }
+                    ] 
+                },
+                {
+                    "name":"Pizza",
+                    "dishes":[
+                        {
+                            "name": "Margherita Pizza",
+                            "desc": "Italian Pomodoro, Mozzarella, Rocket, Drizzle Of Extra Virgin Olive Oil",
+                            "price": 545,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mushroom Story",
+                            "desc": "Mornay Sauce, Wild Mushrooms, Truffle Oil",
+                            "price": 565,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -994,367 +1404,11 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Garden Vegetables Pizza",
+                            "desc": "Roasted Bell Peppers, Broccoli and Zucchini",
+                            "price": 565,
                             "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "specials",
-                                "bgColor": "lavender"
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        }
-                    ] 
-                },
-                {
-                    "name":"Pizza",
-                    "dishes":[
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506538_1724845247684_Garden_Vegetable_Pizza.JPG",
                             "inStock": true,
                             "diet": "veg",
                             "banner": {
@@ -1377,16 +1431,16 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Pizza Bianco",
+                            "desc": "Burrata, Asparagus, Caramelized Onion, Fresh Rocket",
+                            "price": 595,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758743_1701779730.1920967.png",
                             "inStock": true,
                             "diet": "veg",
                             "banner": {
-                                "value": "",
-                                "bgColor": ""
+                                "value": "chef's special",
+                                "bgColor": "purple"
                             },
                             "addOns": [
                                 {
@@ -1404,63 +1458,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "veg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "veg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Italian Pepperoni Pizza",
+                            "desc": "Topped With Thinly Sliced Paprika Pepperoni, Jalapeno",
+                            "price": 875,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1485,16 +1485,16 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Cajun Spiced Chicken",
+                            "desc": "Marinated Chicken, Roasted Bell Peppers, Onion, Cajun Dust",
+                            "price": 695,
                             "id": "",
                             "photo": "",
                             "inStock": true,
                             "diet": "nonVeg",
                             "banner": {
-                                "value": "",
-                                "bgColor": ""
+                                "value": "new",
+                                "bgColor": "red"
                             },
                             "addOns": [
                                 {
@@ -1512,9 +1512,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Tandoori Chicken Commune Pizza",
+                            "desc": "Sliced Red Onion, Tandoori Spice Dusted Chicken,",
+                            "price": 665,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1544,9 +1544,9 @@
                     "name":"Pasta",
                     "dishes":[
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Spaghetti Aglio Olio",
+                            "desc": "Olive Oil, Chili Flakes, Fresh Parsley, Garlic Bread",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1571,9 +1571,95 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Spaghetti In Parmesan Cream Sauce",
+                            "desc": "As Our Team Of Pasta Aficionados, We Can't Wait to Serve You To A Comforting Classic Swooshed On A Parmesan Wheel.",
+                            "price": 645,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "popular",
+                                "bgColor": "orange"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "Spaghetti In Parmesan Cream Sauce With Chicken",
+                                    "desc": "",
+                                    "price": 795
+                                },
+                                {
+                                    "name": "Spaghetti In Parmesan Cream Sauce With Prawns",
+                                    "desc": "",
+                                    "price": 795
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pasta Primevera - white sauce",
+                            "desc": "ask your server for the choice of pasta - penne/spaghetti, bechamel sauce, parmesan cheese, olive oil, fresh herbs",
+                            "price": 525,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "signature Mac N Cheese",
+                            "desc": "ask your server for the choice of sauce - Spicy Pesto/Cream Cheese Sauce - Kid's Favourite",
+                            "price": 545,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758748_1702055006.7287014.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pasta Arrabiata",
+                            "desc": "ask your server for the choice of pasta - penne/spaghetti, spicy pomodoro sauce, fresh basil, chilli flakes, parmesan, olive oil",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1598,9 +1684,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Penne Tomato Cream Veg Pasta",
+                            "desc": "tomato Cream Sauce, Garden Vegetables, Parmesan, Fresh Basil",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1618,104 +1704,23 @@
                             ],
                             "options": [
                                 {
-                                    "name": "",
+                                    "name": "Penne Tomato Cream Chicken Pasta",
                                     "desc": "",
-                                    "price": 0
+                                    "price": 645
                                 }
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Spaghetti Cherry Tomato Stew",
+                            "desc": "Confit Tomato, Basil , Parmesan Shave",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
                             "diet": "veg",
                             "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "veg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "veg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "veg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
+                                "value": "new",
+                                "bgColor": "red"
                             },
                             "addOns": [
                                 {
@@ -1738,11 +1743,11 @@
                     "name":"Large PLates",
                     "dishes":[
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Cottage Cheese Steak",
+                            "desc": "Cheese Pattie, Fennel Stew, Pesto Parmesan Cream",
+                            "price":465,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506550_1674140467.4010494.png",
                             "inStock": true,
                             "diet": "veg",
                             "banner": {
@@ -1765,11 +1770,11 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Peri Peri Cottage Cheese",
                             "desc": "",
-                            "price": 0,
+                            "price":555,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506552_1674141852.65109.png",
                             "inStock": true,
                             "diet": "veg",
                             "banner": {
@@ -1792,11 +1797,11 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Grilled Chicken Breast",
+                            "desc": "Mashed Potato, Red Wine Jus, Assorted Vegetables",
+                            "price": 695,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_506555_1724847592965_grilled_ckn.jpeg",
                             "inStock": true,
                             "diet": "nonVeg",
                             "banner": {
@@ -1819,9 +1824,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Pan Seared Fish Steak",
+                            "desc": "Mashed Potato, Lemon Caper Emulsion, Garden Vegetables",
+                            "price": 695,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1851,9 +1856,9 @@
                     "name":"the Humble indian plate",
                     "dishes":[
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Dum Biryani Veg",
+                            "desc": "With a choice of vegetarian Served with freshly made raita",
+                            "price": 595,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1878,9 +1883,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Gourmet Veg Matki",
+                            "desc": "Assorted garden vegetable cooked in Indian style",
+                            "price": 465,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1905,9 +1910,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Gobhi Musallam",
+                            "desc": "Clay Oven cooked Florets, Spiced Brown Gravy, Toasted Cashew",
+                            "price": 465,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1932,9 +1937,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Oven Baked Cottage Cheese Masala",
+                            "desc": "Tomato Cream, Fresh Coriander",
+                            "price":465,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1959,9 +1964,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Lahori Chole",
+                            "desc": "Chickpea Cooked on Slow Flame, Fresh Coriander",
+                            "price": 465,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -1986,9 +1991,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Dal Makhani",
+                            "desc": "Overnight Cooked Lentils In Melted Butter And Cooking Cream",
+                            "price": 465,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -2013,9 +2018,36 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Mutton Dabba Gosht",
+                            "desc": "Boneless Regional Mutton Curry , Brown Onion , Indian Spices, on Top sunny side Egg",
+                            "price":635,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "recommended",
+                                "bgColor": "pink"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Malabar Fish Curry",
+                            "desc": "Coastal Fish Curry, Coconut Milk",
+                            "price": 635,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -2040,9 +2072,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Hand Pulled Butter Cream Chicken",
+                            "desc": "Succulent Shredded Chicken, Melted Butter, Cooking Cream",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -2067,9 +2099,9 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Dum Biryani Chicken",
+                            "desc": "With a choice of chicken Served with freshly made raita",
+                            "price": 695,
                             "id": "",
                             "photo": "",
                             "inStock": true,
@@ -2094,38 +2126,11 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Railway Chicken Curry",
+                            "desc": "Indian Spices, Coconut, With a Choice Of Rice Or Garlic Naan",
+                            "price": 545,
                             "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "nonVeg",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_507546_1674140983.5442572.png",
                             "inStock": true,
                             "diet": "nonVeg",
                             "banner": {
@@ -2153,13 +2158,284 @@
                     "name":"Oriental Commune",
                     "dishes":[
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Hawker Style Fried Rice Veg",
+                            "desc": "Wok tossed Jasmine Rice, Brown Garlic, Scallion with choice of",
+                            "price": 345,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "egg",
+                                    "desc": "",
+                                    "price": 395
+                                },
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 445
+                                },
+                                {
+                                    "name": "Prawn",
+                                    "desc": "",
+                                    "price": 595
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Thai Chilly Garlic Noodles Veg",
+                            "desc": "Wok Tossed Noodles, with Assorted Vegetables, Scallion, Basil, Light Soy and choice of",
+                            "price":345,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_601465_1724846250399_noodles.png",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "egg",
+                                    "desc": "",
+                                    "price": 395
+                                },
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 445
+                                },
+                                {
+                                    "name": "Prawn",
+                                    "desc": "",
+                                    "price": 595
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hakka Noodles Veg",
+                            "desc": "Wok Tossed Noodles, with Assorted Vegetables, Scallion, Light Soy and choice of",
+                            "price": 345,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "kid recommended",
+                                "bgColor": "yellow"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "egg",
+                                    "desc": "",
+                                    "price": 395
+                                },
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 445
+                                },
+                                {
+                                    "name": "Prawn",
+                                    "desc": "",
+                                    "price": 595
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pan Fried Noodles",
+                            "desc": "Assorted seasonal  vegetable, mushroom, light soy, fresh red chilli, brown garlic, smoked chilly basil  and choice of",
+                            "price": 535,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 555
+                                },
+                                {
+                                    "name": "prawn",
+                                    "desc": "",
+                                    "price": 555
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Nasi Goreng",
+                            "desc": "Malaysian style rice with Chicken Satay, Prawn Cracker, Salad, Sunny side egg, Peanut Sauce",
+                            "price": 595,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758755_1701789965.786788.png",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "must try",
+                                "bgColor": "tangerine"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Mee Goreng",
+                            "desc": "Malaysian style Noodles with Chicken Satay, Prawn Cracker, Salad, Sunny side egg, Peanut Sauce",
+                            "price":595,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "nonVeg",
+                            "banner": {
+                                "value": "chef's special",
+                                "bgColor": "purple"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Schezwan Style Curry",
+                            "desc": "Wok tossed Bok choy, Mushroom, Bell Pepper with choice of",
+                            "price":445,
                             "id": "",
                             "photo": "",
                             "inStock": true,
                             "diet": "",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "vegetable with cottage cheese",
+                                    "desc": "",
+                                    "price": 445
+                                },
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 545
+                                },
+                                {
+                                    "name": "Prawn",
+                                    "desc": "",
+                                    "price": 575
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Vietnamese Curry",
+                            "desc": "Homemade Yellow Curry Paste with Lemon Grass, Fresh Turmeric, Chilly, Curry Leaf and Coconut Milk, Water Chestnut, Mushroom served with Jasmine Rice and choice of",
+                            "price": 535,
+                            "id": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_758760_1701779639.9107292.png",
+                            "inStock": true,
+                            "diet": "",
+                            "banner": {
+                                "value": "new",
+                                "bgColor": "red"
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "veg",
+                                    "desc": "",
+                                    "price": 535
+                                },
+                                {
+                                    "name": "Chicken",
+                                    "desc": "",
+                                    "price": 555
+                                },
+                                {
+                                    "name": "Prawn",
+                                    "desc": "",
+                                    "price": 595
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hot basil tofu",
+                            "desc": "Stir fried Tofu with fresh Thai Red Chilly, Kafir Lime Leaves in Basil Chilly Sauce served with Jasmine Rice",
+                            "price": 445,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2180,229 +2456,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Hot Basil Chicken",
+                            "desc": "Stir fried chicken with fresh Thai Red Chilli, Kafir Lime Leaves in Basil Chilli Sauce served with Jasmine Rice and Sunny side Egg",
+                            "price": 545,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
+                            "diet": "nonVeg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2428,13 +2488,13 @@
                     "name":"From the bee keepers commune- Desert",
                     "dishes":[
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Coconut tres leches",
+                            "desc": "Tender coconut milk, pistachio dust, fresh blueberry",
+                            "price": 495,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_Coconut_tres_leches__1723317176599_coconut_dessert.jpg",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "egg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2455,13 +2515,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Blue Berry Cheese Cake",
+                            "desc": "Icing Sugar, Berry Compote",
+                            "price": 375,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_507554_1674140288.1402147.png",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "egg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2482,13 +2542,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Pull me up Cake",
+                            "desc": "Pistachio sponge, mango icecream, vanilla custard,Kari biscuit flakes.",
+                            "price":495,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item__Pull_me_up_Cake__1723317032968_pulll_me_up_cake.jpg",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2509,13 +2569,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Five River Mud cake",
+                            "desc": "Decadent layered Chocolate Mud Cake and Chocolate Mousse",
+                            "price": 445,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_601148_1724847757878_five_river_mud_cake.jpeg",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2536,13 +2596,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Fudge brownie",
+                            "desc": "Served with Vanilla Ice Cream",
+                            "price":375,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2563,13 +2623,13 @@
                             ]
                         },
                         {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
+                            "name": "Tiramisu Cornetto",
+                            "desc": "A delightful Dream where Coffee Ice Cream and Chantilly waltz beautifully on your plate .",
+                            "price": 395,
                             "id": "",
-                            "photo": "",
+                            "photo": "https://airmenusimages.blr1.cdn.digitaloceanspaces.com/item/item_857984_1713369669.4752107.png",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2595,13 +2655,13 @@
                     "name":"Sides",
                     "dishes":[
                         {
-                            "name": "",
+                            "name": "Steamed Rice",
                             "desc": "",
-                            "price": 0,
+                            "price": 180,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2622,13 +2682,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Cheese Garlic Bread",
                             "desc": "",
-                            "price": 0,
+                            "price": 185,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2649,13 +2709,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Tandoori Plain roti",
                             "desc": "",
-                            "price": 0,
+                            "price": 75,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2676,13 +2736,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "tandoori Butter roti",
                             "desc": "",
-                            "price": 0,
+                            "price": 75,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2703,13 +2763,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "plain naan",
                             "desc": "",
-                            "price": 0,
+                            "price": 75,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2730,13 +2790,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Butter naan",
                             "desc": "",
-                            "price": 0,
+                            "price": 85,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2757,13 +2817,45 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Pita Bread",
                             "desc": "",
-                            "price": 0,
+                            "price": 75,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
+                            "banner": {
+                                "value": "",
+                                "bgColor": ""
+                            },
+                            "addOns": [
+                                {
+                                    "name": "",
+                                    "desc": "",
+                                    "price": 0
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "name": "warm",
+                                    "desc": "",
+                                    "price": 75
+                                },
+                                {
+                                    "name": "toast",
+                                    "desc": "",
+                                    "price": 75
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Garlic Naan",
+                            "desc": "",
+                            "price": 85,
+                            "id": "",
+                            "photo": "",
+                            "inStock": true,
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2784,13 +2876,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Laccha Paratha",
                             "desc": "",
-                            "price": 0,
+                            "price": 85,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2811,13 +2903,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Hari mirch laccha paratha",
                             "desc": "",
-                            "price": 0,
+                            "price": 95,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2838,13 +2930,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Tandoori Kulcha ",
                             "desc": "",
-                            "price": 0,
+                            "price": 95,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2865,13 +2957,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Butter Pav",
                             "desc": "",
-                            "price": 0,
+                            "price": 75,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
@@ -2892,40 +2984,13 @@
                             ]
                         },
                         {
-                            "name": "",
+                            "name": "Raita",
                             "desc": "",
-                            "price": 0,
+                            "price": 125,
                             "id": "",
                             "photo": "",
                             "inStock": true,
-                            "diet": "",
-                            "banner": {
-                                "value": "",
-                                "bgColor": ""
-                            },
-                            "addOns": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ],
-                            "options": [
-                                {
-                                    "name": "",
-                                    "desc": "",
-                                    "price": 0
-                                }
-                            ]
-                        },
-                        {
-                            "name": "",
-                            "desc": "",
-                            "price": 0,
-                            "id": "",
-                            "photo": "",
-                            "inStock": true,
-                            "diet": "",
+                            "diet": "veg",
                             "banner": {
                                 "value": "",
                                 "bgColor": ""
